@@ -2,7 +2,7 @@
 
 # Tugas 1 - Instalasi dan Program Sederhana
 
-Tugas1_Mobile-Programming
+Tugas 1_Mobile-Programming_Kelas B
 
 Install dan pastikan Flutter dapat berjalan pada komputer anda masing-masing. Ikutilah materi yang diberikan pada ketiga video tersebut. Ketikkan kode programnya dan masukkan ke dalam Github masing-masing.
 
